@@ -7,7 +7,6 @@
 #include <QDebug>
 #include <QString>
 #include "radioactivity.h"
-#include "int_256.h"
 #include "ttmath.h"
 #include "radioactive.h"
 typedef ttmath::Big<TTMATH_BITS(64), TTMATH_BITS(256)> big_shtuka;
